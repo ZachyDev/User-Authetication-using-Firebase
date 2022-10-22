@@ -2,7 +2,7 @@ import React from 'react'
 import { Routes, Route, Link } from 'react-router-dom';
 import Login from '../account/Login';
 import Register from '../account/Register';
-import NoMatch from './NoMatch';;
+import NoMatch from './NoMatch';
 function Navbar() {
   return (
     <>
